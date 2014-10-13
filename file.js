@@ -1,2 +1,3 @@
 alert ("hello world")
-//ca marche pas
+//maintenant je vais faire du sql
+open sql ..;
