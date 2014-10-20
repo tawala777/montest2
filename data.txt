@@ -3,7 +3,7 @@ a
 b
 //ici je rajoute une nouvelle fonction d'acess SQL
 {
-	select * dsdsds
+	select * dsdsds non
 	dsdsds
 	...
 }
@@ -17,3 +17,6 @@ commande SQL
 
 modif 1 Alain
 //tres belle modif...
+fkjdshfjhgsdf
+dsgfdjhgksdg
+gqdfgdfqgfd
