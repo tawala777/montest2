@@ -1,11 +1,20 @@
 //3eme fichier
 a
 b
+//ici je rajoute une nouvelle fonction d'acess SQL
+{
+	select * dsdsds
+	dsdsds
+	...
+}
 c
 d
 modif
 E
 F
 commande SQL
+<<<<<<< HEAD
 
 modif 1 Alain
+=======
+>>>>>>> 9baf8945db4e242bdc469b28f6acf6f46de98dc1
