@@ -10,6 +10,11 @@ b
 c
 d
 modif
+//je rajoute une 2eme fonctino
+(
+select *
+call ponononp
+)
 E
 F
 commande SQL
