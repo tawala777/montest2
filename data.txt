@@ -1,6 +1,12 @@
 //3eme fichier
 a
 b
+//ici je rajoute une nouvelle fonction d'acess SQL
+{
+	select * dsdsds
+	dsdsds
+	...
+}
 c
 d
 modif
